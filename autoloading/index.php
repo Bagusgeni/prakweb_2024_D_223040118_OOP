@@ -12,4 +12,4 @@ echo $cetakProduk->cetak();
 
  echo "<hr>";
 
- new Coba();
+ new Coba();  
